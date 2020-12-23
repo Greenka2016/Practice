@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
 	int n, f;
+	cout << "Vvedite kolichestvo slagaemyh: ";
 	cin >> n;
 	int sum = 0;
 	for (int i = 1; i <= n; i++)
